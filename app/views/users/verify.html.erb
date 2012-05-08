@@ -1,0 +1,6 @@
+<h5>The following files were uploaded successfully to '~/Sites/fitgram/public/data':</h5>
+<%= Dir.entries("/Users/mtm700/Sites/fitgram_user_id_test/public/data/").join(' ') %>
+<br><br>
+<h6>If this is correct, we will now compile the data.</h6>
+<%= form_tag( { :action => 'import'} ) %>
+<%= submit_tag "Compile" %>

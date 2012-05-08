@@ -1,0 +1,16 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE "compiledData" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "birthDate" integer NOT NULL, "classID" integer NOT NULL, "ethnicityID" integer NOT NULL, "firstName" varchar(255) NOT NULL, "genderID" integer NOT NULL, "gradeID" integer NOT NULL, "isActiveYN" integer NOT NULL, "lastName" varchar(255) NOT NULL, "middleName" varchar(255) NOT NULL, "nickname" varchar(255) NOT NULL, "password" varchar(255) NOT NULL, "printBodyCompYN" integer NOT NULL, "printSpanishYN" integer NOT NULL, "studentNumber" varchar(255) NOT NULL, "unassignedSchoolID" integer NOT NULL, "userName" varchar(255) NOT NULL);
+COMMIT;
+seq  name             file                                                      
+---  ---------------  ----------------------------------------------------------
+0    main             /Users/mtm700/Sites/fitgram/db/development.sqlite3        
+1    temp                                                                       
+seq  name             file                                                      
+---  ---------------  ----------------------------------------------------------
+0    main             /Users/mtm700/Sites/fitgram/db/development.sqlite3        
+1    temp                                                                       
+seq  name             file                                                      
+---  ---------------  ----------------------------------------------------------
+0    main             /Users/mtm700/Sites/fitgram/db/development.sqlite3        
+1    temp                                                                       

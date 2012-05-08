@@ -1,0 +1,3 @@
+id, firstName, isActiveYN, lastName, loginType, middleName, password, schoolID, userName
+2,"System",1,"Administrator",10,"","fg8admin",0,"fg8admin"
+3,"Becky",1,"Rathke",12,"","GetMoving",1,"brathke"

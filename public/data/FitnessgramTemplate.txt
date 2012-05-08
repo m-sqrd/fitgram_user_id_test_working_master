@@ -1,0 +1,2 @@
+id, activityDaysCol, askForEthnicityYN, classID, curlupCol, date, flexedArmHangCol, lockYN, modifiedPullupCol, name, oneMileRunCol, pacerCol, percentBodyFatCol, printBodyCompYN, printSpanishYN, pullupCol, pushupCol, shoulderStretchCol, sitAndReachCol, skinfoldsCol, studentCreatedYN, studentID, teacherID, trunkLiftCol, walkTestCol
+100,0,0,1,2,10/17/2008,0,0,0,"Fall Pre-test",0,1,0,1,0,0,4,6,5,0,0,-2140118960,3,3,0

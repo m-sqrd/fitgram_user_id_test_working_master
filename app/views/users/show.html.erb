@@ -1,0 +1,6 @@
+<h5><%= @user.name %>, welcome to the University of Wisconsin - Madison Fitness Gram Uploading Page</h5>
+<br>
+<%= form_tag( { :action => 'uploadFile'}, :multipart => true) %>
+<p><label for="upload_file">Select File</label>
+<%= file_field 'upload', 'datafile' %></p>
+<%= submit_tag "Upload" %>
